@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "955460385762",
+    "project_id": "sms-covid",
+    "storage_bucket": "sms-covid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955460385762:android:1abc02c8b6726d7ad8d7bb",
+        "android_client_info": {
+          "package_name": "com.unipi.p17112.smscovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955460385762-b4e4c2154nfgjqqvg36g5lmp3s61n0v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmK-nhtPkslqhC-0DvkJ7oT6fwbifi__k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955460385762-b4e4c2154nfgjqqvg36g5lmp3s61n0v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

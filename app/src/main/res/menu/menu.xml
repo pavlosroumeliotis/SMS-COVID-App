@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profile"
+        app:showAsAction="never"
+        android:title="@string/profile">
+    </item>
+    <item
+        android:id="@+id/messageCodesSettings"
+        app:showAsAction="never"
+        android:title="@string/smscodes">
+    </item>
+    <item
+        android:id="@+id/help"
+        app:showAsAction="never"
+        android:title="@string/help">
+    </item>
+    <item
+        android:id="@+id/singOut"
+        app:showAsAction="never"
+        android:title="@string/signout">
+    </item>
+</menu>

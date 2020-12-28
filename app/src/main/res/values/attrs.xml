@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Other values-->
+    <attr name="codeText_non_selected" format="reference" />
+    <attr name="codeText_selected" format="reference" />
+    <attr name="codeCard_non_selected" format="reference" />
+    <attr name="codeCard_selected" format="reference" />
+    <attr name="scrollbar" format="reference" />
+    <attr name="button" format="reference" />
+
+</resources>
